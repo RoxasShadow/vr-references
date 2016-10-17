@@ -14,6 +14,10 @@
 - [Google VR](https://developers.google.com/vr/) Google SDK for developing products on cardboard and daydream using Unity or Unreal.
 - [A-Frame](https://aframe.io/) Use markup to create VR experiences that work across desktop, iOS, Android, the Oculus Rift, and the HTC Vive.
 
+## Bindings
+### Rust
+- [rust-openvr](https://github.com/rust-openvr/rust-openvr)
+
 ## Graphics
 - [Blender](https://www.blender.org/) Open Source 3D creation. Free to use for any purpose.
 - [Sculptris](http://pixologic.com/sculptris/) Sculptris is a digital sculpting tool made by the ZBrush team and it's free to use.
@@ -21,3 +25,9 @@
 ## Motion Sickness Dev Tips
 - http://www.gamesradar.com/how-the-battle-to-stop-vr-sickness-will-change-game-development-forever/
 - http://www.develop-online.net/special-features/the-develop-guide-to-designing-for-virtual-reality/0129
+
+## Awesome lists
+- [melbvr/awesome-VR](https://github.com/melbvr/awesome-VR)
+- [wizztjh/awesome-WebVR](https://github.com/wizztjh/awesome-WebVR)
+- [thejourneydude/awesome_vr](https://github.com/thejourneydude/awesome_vr)
+- [cjroth/awesome-vr](https://github.com/cjroth/awesome-vr)
